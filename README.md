@@ -8,7 +8,7 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 
 ## 🌟 **About Me**
 - 🎓 **Bachelor of Technology (B.Tech)** in CSE - Data Science  
-  **Pragati Engineering College** (2022-2026) | Current CGPA: **8.98/10**  
+  **Pragati Engineering College** (2022-2026) | Current CGPA: **8.9/10**  
 - 🌱 Currently exploring **Artificial Intelligence**, **Web Development**, and **Data Science**.  
 - 🎯 Goals: Contribute to open-source projects, enhance technical skills, and make an impact in the tech community.  
 
