@@ -1,16 +1,101 @@
-## Hi there 👋
+👩‍💻 Balla Vudaya Naga Varshitha
 
-<!--
-**Varshitha-Balla/Varshitha-Balla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Data Scientist | Web Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Hello! I'm Varshitha, a motivated Computer Science student specializing in Data Science. I'm passionate about solving real-world problems through technology, developing impactful projects, and continuously learning new skills. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+
+🎓 Bachelor of Technology (B.Tech) in CSE - Data SciencePragati Engineering College (2022-2026) | Current CGPA: 8.98/10
+
+🌱 Currently exploring Artificial Intelligence, Web Development, and Data Science.
+
+🎮 Enthusiastic about combining creativity with technology.
+
+🎵 Music Enthusiast | Leader at Basement Blues Club
+
+🔧 Technical Skills
+
+Programming Languages: Java, Python
+
+Web Development: HTML5, CSS3, JavaScript (Intermediate)
+
+Databases: SQL
+
+Tools & Platforms: Git, GitHub, Visual Studio Code
+
+Core Areas: Data Structures, Algorithms, Operating Systems, DBMS
+
+💼 Projects
+
+🔐 Caesar Cipher
+
+A web-based application for encrypting and decrypting messages with customizable keys.
+
+Tech Stack: Python, HTML, CSS, JavaScript
+
+Features:
+
+Real-time encryption/decryption
+
+Interactive key input
+
+Cross-browser compatibility
+
+🌡️ Temperature Converter
+
+A responsive web application for converting temperatures across Celsius, Fahrenheit, and Kelvin scales.
+
+Tech Stack: HTML, CSS, JavaScript
+
+Features:
+
+Real-time conversion with live updates
+
+Input validation for accurate results
+
+🔧 Human Motion Estimation (Internship)
+
+Developed a Human Pose Estimation application using deep learning models as part of an internship with TechSaksham – A joint CSR initiative of Microsoft & SAP.
+
+Description: Utilized OpenCV and TensorFlow to detect human poses and landmarks from images.
+
+Impact: Enhanced understanding of machine learning pipelines and practical applications of computer vision.
+
+🏆 Certifications
+
+NPTEL: Data Science through Python (Elite Certificate)
+
+Infosys Springboard: Basics in Python, Introduction to Artificial Intelligence, Natural Language Processing, Data Science
+
+Hackerrank: Java & Python (Basic Certification)
+
+💡 Leadership Roles
+
+Main Coordinator | Data Analytics Club: Leading workshops and events on data analysis tools and techniques.
+
+Campus Ambassador & Student Director | Unstop Platform: Coordinating student engagement initiatives.
+
+Coordinator | Basement Blues Club: Managing cultural and music events.
+
+📊 Achievements
+
+🏅 100 Days of LeetCode Consistency Badge
+
+💡 Active contributor to GeeksforGeeks, HackerRank, and LeetCode platforms.
+
+🌟 Participant in Smart India Hackathon (SIH) with innovative project ideas like AR-based shopping applications and women safety analytics.
+
+📧 Connect with Me
+
+📧 Email: varshithaballa06@gmail.com
+
+🌐 Portfolio: GitHub Profile
+
+💼 LinkedIn: Varshitha Balla
+
+💡 Platforms: LeetCode | Kaggle | HackerRank
+
+📊 GitHub Stats
+
+
