@@ -11,7 +11,7 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
   **Pragati Engineering College** (2022-2026) | Current CGPA: **8.98/10**  
 - 🌱 Currently exploring **Artificial Intelligence**, **Web Development**, and **Data Science**.  
 - 🎯 Goals: Contribute to open-source projects, enhance technical skills, and make an impact in the tech community.  
-- 🎵 Music Enthusiast | Leader at **Basement Blues Club**  
+
 
 ---
 
@@ -76,11 +76,6 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshitha-Balla&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitha-Balla&theme=radical" alt="GitHub Streak" width="50%"/>
-</p>
 
 
 
