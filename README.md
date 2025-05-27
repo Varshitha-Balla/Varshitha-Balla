@@ -1,6 +1,6 @@
 # 👩‍💻 Balla Vudaya Naga Varshitha
 
-🌟 **Aspiring Data Scientist | Web Developer | Tech Enthusiast**
+🌟 **Aspiring Web Developer | Tech Enthusiast**
 
 Hello! I'm Varshitha, a motivated Computer Science student specializing in Data Science. I'm passionate about solving real-world problems through technology, developing impactful projects, and continuously learning new skills. Welcome to my GitHub profile! 🚀
 
