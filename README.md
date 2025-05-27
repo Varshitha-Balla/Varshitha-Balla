@@ -25,20 +25,35 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 ---
 
 ## 💼 **Projects**
-### 🔐 [Caesar Cipher](https://varshitha-balla.github.io/Caeser-Cipher/)
-- A web-based application for encrypting and decrypting messages with customizable keys.  
-- **Tech Stack**: Python, HTML, CSS, JavaScript  
-- **Features**:  
-  - Real-time encryption/decryption  
-  - Interactive key input  
-  - Cross-browser compatibility  
+
+### 🔐 [WeaWeatherNow](https://varshitha-balla.github.io/Weather-Now/)
+- Developed a dynamic weather web app using OpenWeatherMap API with async/await handling.
+– Designed responsive UI and implemented custom error handling for seamless UX.
+– Deployed on Vercel with performance optimization and clean UX design principles.
+– Implemented real-time data fetching for city-specific weather and temperature updates.
+– Added interactive weather icons and animations to improve user engagement.
+ 
+### 🔐 [Rock-Paper-Scissors](https://varshitha-balla.github.io/Rock-Paper-Scissors/)
+- Created an interactive browser game with real-time logic and animated transitions.
+– Built modular JS structure with event listeners for scalable interaction flow.
+– Ensured device compatibility and responsive layout for mobile and desktop.
+– Implemented dynamic scorekeeping system with game-ending conditions and results.
+– Enhanced user experience with visual feedback for each action (rock, paper, scissors).
 
 ### 🌡️ [Temperature Converter](https://github.com/Varshitha-Balla/Temperature-Converter)
 - A responsive web application for converting temperatures across Celsius, Fahrenheit, and Kelvin scales.  
 - **Tech Stack**: HTML, CSS, JavaScript  
 - **Features**:  
   - Real-time conversion with live updates  
-  - Input validation for accurate results  
+  - Input validation for accurate results
+  - 
+### 🔐 [Caesar Cipher](https://varshitha-balla.github.io/Caeser-Cipher/)
+- A web-based application for encrypting and decrypting messages with customizable keys.  
+- **Tech Stack**: Python, HTML, CSS, JavaScript  
+- **Features**:  
+  - Real-time encryption/decryption  
+  - Interactive key input  
+  - Cross-browser compatibility 
 
 ### 🛠️ **Human Motion Estimation** (Internship)
 - Developed a **Human Pose Estimation** application using deep learning models as part of an internship with **TechSaksham – A joint CSR initiative of Microsoft & SAP**.  
