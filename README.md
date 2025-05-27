@@ -54,12 +54,6 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
   - Real-time encryption/decryption  
   - Interactive key input  
   - Cross-browser compatibility 
-
-### 🛠️ **Human Motion Estimation** (Internship)
-- Developed a **Human Pose Estimation** application using deep learning models as part of an internship with **TechSaksham – A joint CSR initiative of Microsoft & SAP**.  
-- **Description**: Utilized OpenCV and TensorFlow to detect human poses and landmarks from images.  
-- **Impact**: Enhanced understanding of machine learning pipelines and practical applications of computer vision.  
-
 ---
 
 ## 🏆 **Certifications**
