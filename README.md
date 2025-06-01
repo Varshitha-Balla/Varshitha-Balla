@@ -17,10 +17,10 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 
 ## 🔧 **Technical Skills**
 - **Programming Languages**: Java, Python  
-- **Web Development**: HTML5, CSS3, JavaScript (Intermediate)  
+- **Web Development**: HTML5, CSS3, JavaScript,Node and Express js(Familiar)
 - **Databases**: SQL  
 - **Tools & Platforms**: Git, GitHub, Visual Studio Code  
-- **Core Areas**: Data Structures, Algorithms, Operating Systems, DBMS  
+- **Core Areas**: Computer Networks, Operating Systems, DBMS  
 
 ---
 
@@ -73,7 +73,7 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 ## 📈 **Achievements**
 - 🏅 **100 Days of LeetCode Consistency Badge**  
 - 💡 Active contributor to **GeeksforGeeks**, **HackerRank**, and **LeetCode** platforms.  
-- 🌟 Participant in Smart India Hackathon (SIH) with innovative project ideas like AR-based shopping applications and women safety analytics.  
+- 🌟 Participant in Smart India Hackathon (SIH) with innovative project idea-Women Safety Analytics.
 
 ---
 
@@ -81,7 +81,7 @@ Hello! I'm Varshitha, a motivated Computer Science student specializing in Data 
 - 📧 Email: [varshithaballa06@gmail.com](mailto:varshithaballa06@gmail.com)  
 - 🌐 Portfolio: [GitHub Profile](https://github.com/Varshitha-Balla)  
 - 💼 LinkedIn: [Varshitha Balla](https://www.linkedin.com/in/varshithaballa/)  
-- 💡 Platforms: [LeetCode](https://leetcode.com/u/Varshitha_Balla/) | [Kaggle](https://www.kaggle.com/shivakr0508) | [HackerRank](https://www.hackerrank.com/shivakrishnabee1)  
+- 💡 Platforms: [LeetCode](https://leetcode.com/u/Varshitha_Balla/) | [Kaggle](https://www.kaggle.com/shivakr0508)
 
 ---
 
